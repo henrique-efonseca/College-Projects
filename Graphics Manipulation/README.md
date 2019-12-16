@@ -2,13 +2,13 @@
 
 This is a ___Java Project___ that I had to do to my "**Introduction to Progamming**" Class.
 It was given to every student the same [Project Statement](https://github.com/henrique-efonseca/College-Projects/blob/master/Graphics%20Manipulation/enunciadoProjeto1920.pdf) and we had to do what asked (were also given three "default" classes: "ColorImage", "Color" and "ImageUtil").
-(The project statement was given in Portuguese and I can't change it sorry.)
+The [Project Statement](https://github.com/henrique-efonseca/College-Projects/blob/master/Graphics%20Manipulation/enunciadoProjeto1920.pdf) was given in Portuguese and I can't change it sorry.
 
 Briefly the project has 3 Parts and I had to create java classes to create and edit/manipulate 2D Graphics.
 
 **Grade: A** (scale A-D)
 
-
+<br>
 
 ## Part 1
 
