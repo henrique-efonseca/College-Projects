@@ -14,13 +14,13 @@ Briefly the project has 3 Parts and I had to create java classes to create and e
 
 This class has procedures and functions to: create a 2D Column Graphic; apply a gradient to the 2D Column Graphic; create a 2D Scatter Plot Graphic; rotate 90º degrees an Image.
 
-# Part 2
+## Part 2
 
 **Objective**: Develop a Class of Objects that represents the concept of graphic.
 
 After the creation of an object of this class it should be possible to: add/modify the Graphic's Title; add/modify the Graphic's Horizontal Axis; add/modify the Graphic's Vertical Axis; set the graphic to transparent on Even-column and odd-line pixels or Odd column and even line; get all the information associated to the graphic.
 
-# Part 3
+## Part 3
 
 **Objective**: Develop a class of objects that allow overlapping graphics.
 
