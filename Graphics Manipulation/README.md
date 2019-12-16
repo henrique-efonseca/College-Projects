@@ -6,7 +6,7 @@ It was given to every student the same project statement and we had to do what a
 
 Briefly the project has 3 Parts and I had to create java classes to create and edit/manipulate 2D Graphics.
 
-**Grade: A**(scale A-D)
+**Grade: A** (scale A-D)
 
 ## Part 1
 
