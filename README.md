@@ -10,4 +10,4 @@ Because I'm studying at Portugal some descriptions/projects/reports may be in Po
 
 | Projects| Description|
 |---	|---	|
-|[Graphics Manipulation](https://github.com/henrique-efonseca/College-Projects/tree/master/Graphics%20Manipulation)|Project for my "Introduction to Programming" class.	|
+|[Graphics Manipulation](https://github.com/henrique-efonseca/College-Projects/tree/master/Graphics%20Manipulation)|Project for my "**Introduction to Programming**" class.	|
