@@ -1,6 +1,6 @@
 # Graphics Manipulation
 
-This is a Java Project that I had to do to my "Introduction to Progamming" Class.
+This is a __Java Project__ that I had to do to my "Introduction to Progamming" Class.
 It was given to every student the same [Project Statement](https://github.com/henrique-efonseca/College-Projects/blob/master/Graphics%20Manipulation/enunciadoProjeto1920.pdf) and we had to do what asked (were also given three "default" classes: "ColorImage", "Color" and "ImageUtil").
 (The project statement was given in Portuguese and I can't change it sorry.)
 
