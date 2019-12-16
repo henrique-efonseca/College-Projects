@@ -8,6 +8,8 @@ Briefly the project has 3 Parts and I had to create java classes to create and e
 
 **Grade: A** (scale A-D)
 
+
+
 ## Part 1
 
 **Objective**: Develop a static class with procedures and functions for creating and manipulating color images (ColorImage) representative of graphics.
