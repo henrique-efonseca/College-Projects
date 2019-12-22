@@ -2,7 +2,7 @@
 
 This is a ___Java Project___ that I had to do to my "**Introduction to Progamming**" Class.
 It was given to every student the same [Project Statement](https://github.com/henrique-efonseca/College-Projects/blob/master/Graphics%20Manipulation/enunciadoProjeto1920.pdf) and we had to do what asked in that statement. It was also given three "default" classes: [ColorImage](https://github.com/henrique-efonseca/College-Projects/blob/master/Graphics%20Manipulation/ColorImage.java), [Color](https://github.com/henrique-efonseca/College-Projects/blob/master/Graphics%20Manipulation/Color.java) and [ImageUtil](https://github.com/henrique-efonseca/College-Projects/blob/master/Graphics%20Manipulation/ImageUtil.java) .
-The [Project Statement](https://github.com/henrique-efonseca/College-Projects/blob/master/Graphics%20Manipulation/enunciadoProjeto1920.pdf) was given in Portuguese and I can't change it sorry.
+
 
 Briefly the project has 3 Parts and I had to create java classes to create and edit/manipulate 2D Graphics.
 
