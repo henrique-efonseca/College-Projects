@@ -52,11 +52,6 @@ public class PercolationStats {
     	return confidenceHi;
     }
     
-  /*  @Override
-    public String toString() {
-    	String str = "mean = " + mean() + System.lineSeparator() + "stddev = " + stddev() + System.lineSeparator() + "95% confidence interval = [" + confidenceLo() + ", " + confidenceHi() + "]";
-    	return str;
-    }    */
 
    // test client (see below)
    public static void main(String[] args) {
