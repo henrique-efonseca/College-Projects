@@ -6,5 +6,5 @@ The project is called [Percolation](https://github.com/henrique-efonseca/College
 
 For this project I had to submit two classes: [Percolation](https://github.com/henrique-efonseca/College-Projects/blob/master/Percolation/Percolation.java) and [PercolationStats](https://github.com/henrique-efonseca/College-Projects/blob/master/Percolation/PercolationStats.java).
 
-[comment]: <> (**Grade**: X scale A-D)
+**Grade**: 20 (scale 0-20)
 
