@@ -9,7 +9,6 @@ For this project I had to submit two classes: [Percolation](https://github.com/h
 **Grade**: 20 (scale 0-20)
 
 <br>
-<br>
 
 ## Percolation
 Given a composite systems comprised of randomly distributed insulating and metallic materials: what fraction of the materials need to be metallic so that the composite system is an electrical conductor? Given a porous landscape with water on the surface (or oil below), under what conditions will the water be able to drain through to the bottom (or the oil to gush through to the surface)? Scientists have defined an abstract process known as percolation to model such situations.
