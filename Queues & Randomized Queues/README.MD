@@ -16,7 +16,7 @@ Princeton Algorithm Programming Assignment 2
 
 Dequeue. A double-ended queue or deque (pronounced “deck”) is a generalization of a stack and a queue that supports adding and removing items from either the front or the back of the data structure. Create a generic data type Deque that implements the following API:
 
-```python
+```java
     public class Deque<Item> implements Iterable<Item> {
      
     // construct an empty deque
@@ -43,7 +43,7 @@ Dequeue. A double-ended queue or deque (pronounced “deck”) is a generalizati
     // return an iterator over items in order from front to end
     public Iterator<Item> iterator()   
     
-    // unit testing (optional)
+    // unit testing (required)
     public static void main(String[] args)  
 }
 ```
@@ -83,7 +83,7 @@ public class RandomizedQueue<Item> implements Iterable<Item> {
     // return an independent iterator over items in random order
     public Iterator<Item> iterator()    
     
-    // unit testing (optional)
+    // unit testing (required)
     public static void main(String[] args)  
 }
 ```
