@@ -115,10 +115,11 @@ Client. Write a client program Permutation.java that takes an integer k as a com
 
 Your program must implement the following API:
 
-
-    public class Permutation {
-       public static void main(String[] args)
-    }
+```java
+public class Permutation {
+    public static void main(String[] args)
+}
+```
 
 Command-line input.  You may assume that 0 ≤ k ≤ n, where n is the number of string on standard input.
 
