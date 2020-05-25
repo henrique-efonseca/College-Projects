@@ -1,4 +1,3 @@
-
 # Queues & Randomized Queues
 
 This ia a ___Java Project___ that I had to do to my "**Algorithms & Data Structures**" class. <br>
@@ -10,9 +9,8 @@ For this project I had to submit three classes: [RandomizedQueue](), [Deque]() a
 [comment]: <> (**Grade**: X scale A-D)
 
 <br>
-<br>
 
-
+## Queues & Randomized Queues
 Princeton Algorithm Programming Assignment 2
  Write a generic data type for a deque and a randomized queue. The goal of this assignment is to implement elementary data structures using arrays and linked lists, and to introduce you to generics and iterators.
 
