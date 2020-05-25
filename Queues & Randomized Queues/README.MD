@@ -13,6 +13,7 @@ For this project I had to submit three classes: [RandomizedQueue](), [Deque]() a
 ## Queues & Randomized Queues
 Princeton Algorithm Programming Assignment 2
  Write a generic data type for a deque and a randomized queue. The goal of this assignment is to implement elementary data structures using arrays and linked lists, and to introduce you to generics and iterators.
+Website - [Queues & Randomized Queues](https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php)
 
 Dequeue. A double-ended queue or deque (pronounced “deck”) is a generalization of a stack and a queue that supports adding and removing items from either the front or the back of the data structure. Create a generic data type Deque that implements the following API:
 
