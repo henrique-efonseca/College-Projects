@@ -71,6 +71,7 @@ By convention, the row and column indices are integers between 1 and n, where (1
 The constructor should take time proportional to n^2; all methods should take constant time plus a constant number of calls to the union–find methods union(), find(), connected(), and count(). 
 
 <br>
+
 ## Monte Carlo simulation
 To estimate the percolation threshold, consider the following computational experiment:
 
