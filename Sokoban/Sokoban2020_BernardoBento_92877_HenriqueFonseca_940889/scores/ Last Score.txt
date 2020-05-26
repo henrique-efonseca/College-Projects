@@ -1,0 +1,4 @@
+Player:  
+Level 1 ----> 160 points 
+Level 2 ----> 185 points 
+Level 3 ----> 137 points 
