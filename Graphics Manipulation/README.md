@@ -54,46 +54,46 @@ public class ObjectsGraph {
     public ObjectsGraph(ColorImage graphic, String title, String horizontalAxis, String verticalAxi) {
     
    // Adds a Title to the Graphic
-	public void setTitle(String title)
+    public void setTitle(String title)
     
     // Sets the Graphic Horizontal Axis Title
-	public void setHorizontalAxis(String horizontalAxis) 
+    public void setHorizontalAxis(String horizontalAxis) 
     
     // Sets the Graphic Vertical Axis Title
-	public void setVerticalAxis(String verticalAxis) {
+    public void setVerticalAxis(String verticalAxis) 
     
     // Sets the Graphic to Transparent
-	public void setTransparent() 
+    public void setTransparent() 
     
     // Rotates the Graphic
-	public ObjectsGraph rotate() 
+    public ObjectsGraph rotate() 
     
     // Returns the Graphic Height
     public int getHeight() 
     
     // Returns the Graphic Width
-    public int getWidth() {
+    public int getWidth() 
     
     // Returns the Graphic image (instanceof ColorImage)
-    public ColorImage getImg() {
+    public ColorImage getImg() 
     
     // Returns the Graphic Title
-    public String getTitle() {
+    public String getTitle() 
     
     // Returns the Graphic Vertical Axis Name
-    public String getVerticalAxis() {
+    public String getVerticalAxis() 
     
     // Returns the Graphic Horizontal Axis Name
     public String getHorizontalAxis() 
     
     // Returns a String with the Graphic's Title, Horizontal Axis and Vertical Axis
-    public String getInfo() {
+    public String getInfo() 
     
     // Boolean to check if the Graphic has a title
-    public boolean hasTitle() {
+    public boolean hasTitle() 
     
     // Set the Graphic image transparent
-    static ColorImage transparent(ColorImage img) {
+    static ColorImage transparent(ColorImage img) 
     
 }
 ```
