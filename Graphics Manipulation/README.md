@@ -33,6 +33,7 @@ public class StaticGraph {
     
     //Rotates an image.
     public static ColorImage rotate(ColorImage img) 
+    
 }
 ```
 
@@ -43,6 +44,59 @@ public class StaticGraph {
 **Objective**: Develop a Class of Objects that represents the concept of graphic.
 
 After the creation of an object of [this class](https://github.com/henrique-efonseca/College-Projects/blob/master/Graphics%20Manipulation/ObjectsGraph.java) it should be possible to: add/modify the Graphic's Title; add/modify the Graphic's Horizontal Axis; add/modify the Graphic's Vertical Axis; set the graphic to transparent on Even-column and odd-line pixels or Odd column and even line; get all the information associated to the graphic.
+
+Function of the class:
+
+```java
+public class ObjectsGraph {
+    
+    // Constructor.
+    public ObjectsGraph(ColorImage graphic, String title, String horizontalAxis, String verticalAxi) {
+    
+   // Adds a Title to the Graphic
+	public void setTitle(String title)
+    
+    // Sets the Graphic Horizontal Axis Title
+	public void setHorizontalAxis(String horizontalAxis) 
+    
+    // Sets the Graphic Vertical Axis Title
+	public void setVerticalAxis(String verticalAxis) {
+    
+    // Sets the Graphic to Transparent
+	public void setTransparent() 
+    
+    // Rotates the Graphic
+	public ObjectsGraph rotate() 
+    
+    // Returns the Graphic Height
+    public int getHeight() 
+    
+    // Returns the Graphic Width
+    public int getWidth() {
+    
+    // Returns the Graphic image (instanceof ColorImage)
+    public ColorImage getImg() {
+    
+    // Returns the Graphic Title
+    public String getTitle() {
+    
+    // Returns the Graphic Vertical Axis Name
+    public String getVerticalAxis() {
+    
+    // Returns the Graphic Horizontal Axis Name
+    public String getHorizontalAxis() 
+    
+    // Returns a String with the Graphic's Title, Horizontal Axis and Vertical Axis
+    public String getInfo() {
+    
+    // Boolean to check if the Graphic has a title
+    public boolean hasTitle() {
+    
+    // Set the Graphic image transparent
+    static ColorImage transparent(ColorImage img) {
+    
+}
+```
 
 ## Part 3
 
