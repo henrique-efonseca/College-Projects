@@ -14,25 +14,25 @@ Briefly the project has 3 Parts and I had to create java classes to create and e
 
 **Objective**: Develop a [Static Class](https://github.com/henrique-efonseca/College-Projects/blob/master/Graphics%20Manipulation/StaticGraph.java) with procedures and functions for creating and manipulating color images (ColorImage) representative of graphics.
 
-This class has procedures and functions to: create a 2D Column Graphic; apply a gradient to the 2D Column Graphic; create a 2D Scatter Plot Graphic; rotate 90º degrees an Image.
+Function of the class:
 
 ```java
 public class StaticGraph {
     
     // Creates a 2D Graphic (with columns) using the previous function.
-	  public static ColorImage createGraphic(int[] vector, int space, int length, Color color) 
+    public static ColorImage createGraphic(int[] vector, int space, int length, Color color) 
     
     //Creates a 2D Column Graphic (using the previous function).
-  	public static ColorImage gradientGraphic(int[] vector, int space, int length, Color color, int pixels) 
+    public static ColorImage gradientGraphic(int[] vector, int space, int length, Color color, int pixels) 
     
     // Creates a 2D Circle.
-	  public static ColorImage plot(int a, int b, int radius, ColorImage plot, Color colour) 
+    public static ColorImage plot(int a, int b, int radius, ColorImage plot, Color colour) 
    
     //Creates a 2D Scatter Plot Graphic using the previous function.
-	  public static ColorImage scatterPlot(int[] vector, int space, int radius, Color color) 
+    public static ColorImage scatterPlot(int[] vector, int space, int radius, Color color) 
     
     //Rotates an image.
-	  public static ColorImage rotate(ColorImage img) 
+    public static ColorImage rotate(ColorImage img) 
 }
 ```
 
