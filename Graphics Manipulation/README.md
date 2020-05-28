@@ -16,6 +16,28 @@ Briefly the project has 3 Parts and I had to create java classes to create and e
 
 This class has procedures and functions to: create a 2D Column Graphic; apply a gradient to the 2D Column Graphic; create a 2D Scatter Plot Graphic; rotate 90º degrees an Image.
 
+```java
+public class StaticGraph {
+    
+    // Creates a 2D Graphic (with columns) using the previous function.
+	  public static ColorImage createGraphic(int[] vector, int space, int length, Color color) 
+    
+    //Creates a 2D Column Graphic (using the previous function).
+  	public static ColorImage gradientGraphic(int[] vector, int space, int length, Color color, int pixels) 
+    
+    // Creates a 2D Circle.
+	  public static ColorImage plot(int a, int b, int radius, ColorImage plot, Color colour) 
+   
+    //Creates a 2D Scatter Plot Graphic using the previous function.
+	  public static ColorImage scatterPlot(int[] vector, int space, int radius, Color color) 
+    
+    //Rotates an image.
+	  public static ColorImage rotate(ColorImage img) 
+}
+```
+
+<br>
+
 ## Part 2
 
 **Objective**: Develop a Class of Objects that represents the concept of graphic.
