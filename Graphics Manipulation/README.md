@@ -51,7 +51,7 @@ Function of the class:
 public class ObjectsGraph {
     
     // Constructor.
-    public ObjectsGraph(ColorImage graphic, String title, String horizontalAxis, String verticalAxi) {
+    public ObjectsGraph(ColorImage graphic, String title, String horizontalAxis, String verticalAxi) 
     
    // Adds a Title to the Graphic
     public void setTitle(String title)
@@ -97,12 +97,53 @@ public class ObjectsGraph {
     
 }
 ```
+<br>
 
 ## Part 3
 
 **Objective**: Develop a class of objects that allow overlapping graphics.
 
 After the creation of an object of [this class](https://github.com/henrique-efonseca/College-Projects/blob/master/Graphics%20Manipulation/OverlapGraph.java) it should be possible to: store a stack of graphics; add a graphic to the top of the stack; remove a graphic from the top of the stack; add a graphic to an index of the stack; given two indexs swap position two graphics of the stack; get every graphic without title; order alphabetically every graphic of the stack; get the resulting image from the overlap of every graphic from the stack; rotate 90º degrees the previous image.
+
+Function of the class:
+
+```java
+public class StaticGraph {
+
+    // Constructor
+    OverlapGraph(ObjectsGraph[] a) 
+    
+    // Add an ObjectGraph to the top 
+    void add(ObjectsGraph img) {
+    
+    // Add an Object to a spicific index
+    void addToIndex(ObjectsGraph img, int index) {
+    
+    // Removes the last added Graphic 
+    void removeFromTop() {
+    
+    // Returns the last added Graphic
+    public ObjectsGraph getTopGraphic() {
+    
+    // Return the Graphic at the specific index
+    public ObjectsGraph getIndexGraphic(int index) {
+    
+    // Given two indexs, trades the graphics
+    public void tradeGraphics(int indexA, int indexB) {
+    
+    // 
+    public OverlapGraph graphicsWithoutTitle() 
+    
+    //
+    public void alphabethicalGraphic() {
+    
+    //
+    public ObjectsGraph overlap() {
+    
+    //
+    public ObjectsGraph rotateOverlap() {
+}
+```
 
 
 
