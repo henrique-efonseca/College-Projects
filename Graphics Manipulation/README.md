@@ -108,40 +108,28 @@ After the creation of an object of [this class](https://github.com/henrique-efon
 Function of the class:
 
 ```java
-public class StaticGraph {
+public class OverlapGraph {
 
     // Constructor
     OverlapGraph(ObjectsGraph[] a) 
     
     // Add an ObjectGraph to the top 
-    void add(ObjectsGraph img) {
+    void add(ObjectsGraph img) 
     
-    // Add an Object to a spicific index
-    void addToIndex(ObjectsGraph img, int index) {
+    // Add an Object to a specific index
+    void addToIndex(ObjectsGraph img, int index) 
     
     // Removes the last added Graphic 
-    void removeFromTop() {
+    void removeFromTop() 
     
     // Returns the last added Graphic
-    public ObjectsGraph getTopGraphic() {
+    public ObjectsGraph getTopGraphic() 
     
     // Return the Graphic at the specific index
-    public ObjectsGraph getIndexGraphic(int index) {
+    public ObjectsGraph getIndexGraphic(int index) 
     
     // Given two indexs, trades the graphics
-    public void tradeGraphics(int indexA, int indexB) {
-    
-    // 
-    public OverlapGraph graphicsWithoutTitle() 
-    
-    //
-    public void alphabethicalGraphic() {
-    
-    //
-    public ObjectsGraph overlap() {
-    
-    //
-    public ObjectsGraph rotateOverlap() {
+    public void tradeGraphics(int indexA, int indexB) 
 }
 ```
 
