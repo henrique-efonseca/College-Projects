@@ -93,7 +93,7 @@ public class ObjectsGraph {
     public boolean hasTitle() 
     
     // Set the Graphic image transparent
-    static ColorImage transparent(ColorImage img) 
+    public ColorImage transparent(ColorImage img) 
     
 }
 ```
@@ -111,16 +111,16 @@ Function of the class:
 public class OverlapGraph {
 
     // Constructor
-    OverlapGraph(ObjectsGraph[] a) 
+    public OverlapGraph(ObjectsGraph[] a) 
     
     // Add an ObjectGraph to the top 
-    void add(ObjectsGraph img) 
+    public void add(ObjectsGraph img) 
     
     // Add an Object to a specific index
-    void addToIndex(ObjectsGraph img, int index) 
+    public void addToIndex(ObjectsGraph img, int index) 
     
     // Removes the last added Graphic 
-    void removeFromTop() 
+    public void removeFromTop() 
     
     // Returns the last added Graphic
     public ObjectsGraph getTopGraphic() 
