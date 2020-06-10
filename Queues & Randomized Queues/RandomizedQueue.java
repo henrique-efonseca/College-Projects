@@ -112,13 +112,10 @@ public class RandomizedQueue<Item> implements Iterable<Item> {
 
     // testing (required)
     public static void main(String[] args) {
-        System.out.println("Running remove/resize test.");
+     
 
-        // System.out.println("Make sure to uncomment the lines below (and delete this
-        // print statement).");
         RandomizedQueue<Integer> rq = new RandomizedQueue<Integer>();
-        // should be empty
-        System.out.println("isEmpty() returned " + rq.isEmpty());
+       
 
         for (int i = 0; i < 100; i++) {
             rq.enqueue(i);
@@ -128,9 +125,7 @@ public class RandomizedQueue<Item> implements Iterable<Item> {
             System.out.println(rq.dequeue());
         }
 
-        // should not be empty
-        System.out.println("isEmpty() returned " + rq.isEmpty());
-
+   
     }
 
 }
