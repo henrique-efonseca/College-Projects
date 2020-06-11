@@ -14,15 +14,9 @@ Some files are missing because I do not have the permission to share them. <br>
 
  <br>
 
-## Game Screenshots
-<center>
-![20x20 grid](https://github.com/henrique-efonseca/College-Projects/blob/master/Sokoban/Screenshots/Begin.jpeg) </center> <br>
+## Game Perspective
+![Game](https://github.com/henrique-efonseca/College-Projects/blob/master/Sokoban/Sokoban.gif)
 
-![20x20 grid](https://github.com/henrique-efonseca/College-Projects/blob/master/Sokoban/Screenshots/Level_1.png) <br>
-![20x20 grid](https://github.com/henrique-efonseca/College-Projects/blob/master/Sokoban/Screenshots/Battery.jpeg) <br>
-![20x20 grid](https://github.com/henrique-efonseca/College-Projects/blob/master/Sokoban/Screenshots/Level_2.jpeg) <br>
-![20x20 grid](https://github.com/henrique-efonseca/College-Projects/blob/master/Sokoban/Screenshots/Level_2_Complete.jpeg) <br>
-![20x20 grid](https://github.com/henrique-efonseca/College-Projects/blob/master/Sokoban/Screenshots/Level_3.jpeg)
 
 <br>
 
