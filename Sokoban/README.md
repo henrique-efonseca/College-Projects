@@ -12,11 +12,11 @@ Some files are missing because I do not have the permission to share them. <br>
  The player is confined to the board and may move horizontally or vertically onto empty squares (never through walls or boxes). The player can move a box by walking up to it and push it to the square beyond. Boxes cannot be pulled, and they cannot be pushed to squares with walls or other boxes. The number of boxes equals the number of storage locations. The puzzle is solved when all boxes are placed at storage locations.
 
 ## Game Screenshots
-![20x20 grid](https://github.com/henrique-efonseca/College-Projects/blob/master/Sokoban/Screenshots/Begin.jpeg)
-![20x20 grid](https://github.com/henrique-efonseca/College-Projects/blob/master/Sokoban/Screenshots/Level_1.png)
-![20x20 grid](https://github.com/henrique-efonseca/College-Projects/blob/master/Sokoban/Screenshots/Battery.jpeg)
-![20x20 grid](https://github.com/henrique-efonseca/College-Projects/blob/master/Sokoban/Screenshots/Level_2.jpeg)
-![20x20 grid](https://github.com/henrique-efonseca/College-Projects/blob/master/Sokoban/Screenshots/Level_2_Complete.jpeg)
+![20x20 grid](https://github.com/henrique-efonseca/College-Projects/blob/master/Sokoban/Screenshots/Begin.jpeg) <br>
+![20x20 grid](https://github.com/henrique-efonseca/College-Projects/blob/master/Sokoban/Screenshots/Level_1.png) <br>
+![20x20 grid](https://github.com/henrique-efonseca/College-Projects/blob/master/Sokoban/Screenshots/Battery.jpeg) <br>
+![20x20 grid](https://github.com/henrique-efonseca/College-Projects/blob/master/Sokoban/Screenshots/Level_2.jpeg) <br>
+![20x20 grid](https://github.com/henrique-efonseca/College-Projects/blob/master/Sokoban/Screenshots/Level_2_Complete.jpeg) <br>
 ![20x20 grid](https://github.com/henrique-efonseca/College-Projects/blob/master/Sokoban/Screenshots/Level_3.jpeg)
 
 
