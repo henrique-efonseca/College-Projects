@@ -21,4 +21,4 @@ Some files are missing because I do not have the permission to share them. <br>
 <br>
 
 ## UML Diagram
-![20x20 grid](https://github.com/henrique-efonseca/College-Projects/blob/master/Sokoban/UML.png)
+![UML](https://github.com/henrique-efonseca/College-Projects/blob/master/Sokoban/UML.png)
