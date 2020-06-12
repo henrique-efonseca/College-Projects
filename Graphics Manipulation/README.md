@@ -6,7 +6,6 @@ It was given to every student the same [Project Statement](https://github.com/he
 
 Briefly the project has 3 Parts and I had to create java classes to create and edit/manipulate 2D Graphics.
 
-**Grade: A** (scale A-D)
 
 <br>
 
