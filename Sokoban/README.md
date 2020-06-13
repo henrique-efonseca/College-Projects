@@ -1,9 +1,9 @@
 # Sokoban Game
 
 This is the final  ___Java Project___ for my "**Object-Oriented Programming**" - OOP -  Class. <br>
-The objective is to make a puzzle game based on the Japanese [Sokoban](https://en.wikipedia.org/wiki/Sokoban) game. <br>
+The objective was to make a puzzle game, based on the Japanese [Sokoban](https://en.wikipedia.org/wiki/Sokoban) game. <br>
+This project was very interesting because it allowed me to learn, develop and consolidate OOP concepts such as: Encapsulation, Polymorphism, Inheritance and Abstraction <br>
 For more information see the [Project Assignment](https://github.com/henrique-efonseca/College-Projects/blob/master/Sokoban/Sokoban_Assigment.pdf). <br>
-This project was very interesting because it allowed me to learn, develop and consolidate OOP concepts such as: Encapsulation, Polymorphism, Inheritance and Abstraction. <br>
 
 Note: Some files are missing because I do not have the permission to share them. <br>
 
