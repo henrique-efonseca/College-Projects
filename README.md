@@ -14,7 +14,7 @@ Because I'm studying at Portugal some descriptions/projects/reports may be in Po
 |[Percolation](https://github.com/henrique-efonseca/College-Projects/tree/master/Percolation) | Project for **Algorithms & Data Structures** course. |
 |[Queues & Randomized Queues](https://github.com/henrique-efonseca/College-Projects/tree/master/Queues%20%26%20Randomized%20Queues) | Project for **Algorithms & Data Structures** course. |
 | [Sokoban](https://github.com/henrique-efonseca/College-Projects/tree/master/Sokoban) | Project for **Object-Oriented Programming** course.  |
-| [CLiniq-IUL](https://github.com/henrique-efonseca/College-Projects/tree/master/Cliniq-IUL) | Project for **Operating Systems** course. |
+| [Cliniq-IUL](https://github.com/henrique-efonseca/College-Projects/tree/master/Cliniq-IUL) | Project for **Operating Systems** course. |
 
 <br>
 
