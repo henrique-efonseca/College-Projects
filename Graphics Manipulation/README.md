@@ -1,6 +1,6 @@
 # Graphics Manipulation
 
-This is a an individual ___Java Project___ that I had to do to my "**Introduction to Progamming**" Class.
+This is a an individual ___Java Project___ that I had to do to my "**Introduction to Progamming**" course.
 It was given to every student the same [Project Statement](https://github.com/henrique-efonseca/College-Projects/blob/master/Graphics%20Manipulation/enunciadoProjeto1920.pdf) and we had to do what asked in that statement. It was also given three "default" classes: [ColorImage](https://github.com/henrique-efonseca/College-Projects/blob/master/Graphics%20Manipulation/ColorImage.java), [Color](https://github.com/henrique-efonseca/College-Projects/blob/master/Graphics%20Manipulation/Color.java) and [ImageUtil](https://github.com/henrique-efonseca/College-Projects/blob/master/Graphics%20Manipulation/ImageUtil.java) .
 
 
@@ -13,7 +13,7 @@ Briefly the project has 3 Parts and I had to create java classes to create and e
 
 **Objective**: Develop a [Static Class](https://github.com/henrique-efonseca/College-Projects/blob/master/Graphics%20Manipulation/StaticGraph.java) with procedures and functions for creating and manipulating color images (ColorImage) representative of graphics.
 
-Function of the class:
+Class functions:
 
 ```java
 public class StaticGraph {
